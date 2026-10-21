@@ -13,7 +13,7 @@
 | Pertimbangan pemilihan | Dipilih ketika akses lintas perangkat, pembaruan terpusat, dan kemudahan distribusi menjadi prioritas. | Dipilih ketika kontrol terhadap lingkungan komputer, integrasi sistem, atau pemrosesan lokal lebih penting. | Dipilih ketika layanan perlu digunakan secara praktis di perjalanan atau bergantung pada fitur perangkat seluler. |
 
 
-## 3. Referensi
+## 2. Referensi
 
 1. MDN Web Docs. Introduction to the Web. https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website
 2. Microsoft Learn. Windows app development documentation. https://learn.microsoft.com/en-us/windows/apps/
