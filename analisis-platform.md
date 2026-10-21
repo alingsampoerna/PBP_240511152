@@ -1,4 +1,4 @@
-# Analisis Komparatif Platform Web, Desktop, dan Mobile
+# Analisis Komparatif Platform dan refleksi
 
 ## 1. Analisis Komparatif Platform
 
