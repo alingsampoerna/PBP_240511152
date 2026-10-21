@@ -12,10 +12,17 @@
 | Contoh aplikasi | Sistem informasi akademik berbasis browser, dashboard pemantauan jaringan, dan layanan kolaborasi berbasis web. | Visual Studio Code, perangkat lunak desain seperti Blender, dan aplikasi pengelolaan basis data desktop. | Aplikasi navigasi, aplikasi pemantauan kebugaran, dan aplikasi perbankan digital. |
 | Pertimbangan pemilihan | Dipilih ketika akses lintas perangkat, pembaruan terpusat, dan kemudahan distribusi menjadi prioritas. | Dipilih ketika kontrol terhadap lingkungan komputer, integrasi sistem, atau pemrosesan lokal lebih penting. | Dipilih ketika layanan perlu digunakan secara praktis di perjalanan atau bergantung pada fitur perangkat seluler. |
 
-
-## 2. Referensi
+Sumber Referensi
 
 1. MDN Web Docs. Introduction to the Web. https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website
 2. Microsoft Learn. Windows app development documentation. https://learn.microsoft.com/en-us/windows/apps/
 3. Android Developers. Application fundamentals. https://developer.android.com/guide/components/fundamentals
 4. Apple Developer. App Store distribution. https://developer.apple.com/app-store/
+
+
+## 2. Refleksi
+Setelah mempelajari perbedaan platform Web, Desktop, dan Mobile, saya tertarik untuk mendalami pengembangan aplikasi Web. Menurut saya, platform Web memiliki keunggulan dalam hal aksesibilitas karena pengguna dapat mengakses aplikasi melalui browser tanpa harus memasang program secara terpisah. Selain itu, pembaruan aplikasi dapat dilakukan melalui server sehingga pengembang lebih mudah melakukan pemeliharaan. Saya juga tertarik mempelajari bagaimana frontend, backend, dan basis data saling terhubung untuk membangun sebuah sistem informasi yang bermanfaat.
+
+Tantangan terbesar yang saya perkirakan selama melakukan setup environment adalah memastikan seluruh perangkat pengembangan, seperti Git, Node.js, NPM, Visual Studio Code, dan Java JDK, terpasang serta dapat dijalankan dengan benar. Masalah seperti konfigurasi PATH atau versi perangkat lunak yang tidak sesuai dapat menghambat proses pengembangan jika tidak dipahami dengan baik.
+
+Untuk mengatasi tantangan tersebut, saya akan memeriksa hasil instalasi melalui terminal, mempelajari dokumentasi resmi, dan mencari solusi secara bertahap apabila terjadi kesalahan. Saya juga akan membiasakan diri menggunakan Git dan GitHub untuk menyimpan serta mengelola perubahan kode. Dengan proses belajar dan latihan yang konsisten, saya berharap dapat membangun fondasi yang kuat untuk mengembangkan aplikasi secara mandiri maupun dalam tim.
