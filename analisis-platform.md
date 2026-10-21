@@ -10,7 +10,7 @@
 | Keunggulan | Cocok untuk sistem informasi yang digunakan banyak orang dari lokasi berbeda. Pemeliharaan terpusat mempermudah penerapan pembaruan dan pengelolaan layanan. | Cocok untuk pekerjaan yang membutuhkan integrasi sistem operasi, penggunaan perangkat keras tertentu, atau pemrosesan lokal yang intensif. | Mendukung penggunaan saat bepergian dan integrasi dengan fitur seperti kamera, GPS, sensor gerak, serta notifikasi. |
 | Keterbatasan | Perbedaan browser dapat memengaruhi tampilan atau perilaku aplikasi. Fitur tertentu membutuhkan izin browser, dan layanan berbasis server bergantung pada konektivitas jaringan. | Pengembang dapat menghadapi perbedaan sistem operasi, kebutuhan instalasi, serta proses pembaruan pada perangkat pengguna. | Fragmentasi ukuran layar dan kemampuan perangkat menambah kebutuhan pengujian. Penggunaan GPS, kamera, dan proses latar belakang juga harus memperhatikan izin serta konsumsi baterai. |
 | Contoh aplikasi | Sistem informasi akademik berbasis browser, dashboard pemantauan jaringan, dan layanan kolaborasi berbasis web. | Visual Studio Code, perangkat lunak desain seperti Blender, dan aplikasi pengelolaan basis data desktop. | Aplikasi navigasi, aplikasi pemantauan kebugaran, dan aplikasi perbankan digital. |
-| Pertimbangan pemilihan | Dipilih ketika akses lintas perangkat, pembaruan terpusat, dan kemudahan distribusi menjadi prioritas. | Dipilih ketika kontrol terhadap lingkungan komputer, integrasi sistem, atau pemrosesan lokal lebih penting. | Dipilih ketika layanan perlu digunakan secara praktis di perjalanan atau bergantung pada fitur perangkat seluler. |
+ |
 
 Sumber Referensi
 
